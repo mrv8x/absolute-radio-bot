@@ -27,8 +27,8 @@ URL1 = 'http://radiofeeds.co.uk/mp3.asp'
 URL2 = 'http://lsn.to/ABS'
 URL3 = 'https://www.mysqueezebox.com/index/Home'
 
-CredentialUsername = 'realradio@gmail.com'
-CredentialPass = '96transam'
+CredentialUsername = 'user@gmail.com'
+CredentialPass = '*****'
 
 dest_dir = os.path.expandvars('%userprofile%\Downloads')
 
